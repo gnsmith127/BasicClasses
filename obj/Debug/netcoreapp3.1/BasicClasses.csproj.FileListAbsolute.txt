@@ -1,0 +1,13 @@
+/Users/giannasmith/repos/BasicClasses/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.deps.json
+/Users/giannasmith/repos/BasicClasses/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.runtimeconfig.json
+/Users/giannasmith/repos/BasicClasses/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.runtimeconfig.dev.json
+/Users/giannasmith/repos/BasicClasses/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.dll
+/Users/giannasmith/repos/BasicClasses/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.pdb
+/Users/giannasmith/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.csproj.AssemblyReference.cache
+/Users/giannasmith/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giannasmith/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.AssemblyInfoInputs.cache
+/Users/giannasmith/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.AssemblyInfo.cs
+/Users/giannasmith/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.csproj.CoreCompileInputs.cache
+/Users/giannasmith/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.dll
+/Users/giannasmith/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.pdb
+/Users/giannasmith/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.genruntimeconfig.cache
